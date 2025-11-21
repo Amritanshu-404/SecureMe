@@ -243,9 +243,6 @@ GitHub: [@Amritanshu-404](https://github.com/Amritanshu-404)
 **Ritesh Singh Kushwaha**  
 GitHub: [@your-github-username](https://github.com/your-github-username)
 
-**Master of Computer Applications (2024–2026)**  
-Lovely Professional University
-
 </div>
 
 ---
@@ -267,3 +264,4 @@ Found a bug? Have a suggestion? We'd love to hear from you!
 Made with ❤️ by security enthusiasts for security enthusiasts
 
 </div>
+
