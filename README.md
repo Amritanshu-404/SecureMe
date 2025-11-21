@@ -79,8 +79,9 @@ Allows users to create encrypted .docx notes.
 * **Excel Metadata** – Operation logs
 
 ---
-## **👥 Contributor **
+## **👥 Contributor**
 
 Ritesh Singh Kushwaha
 GitHub: @your-github-username
+
 
