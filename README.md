@@ -237,11 +237,9 @@ SecureMe is designed for personal use and educational purposes. While we impleme
 
 ### Developed by:
 
-**Amritanshu Kumar**  
-GitHub: [@Amritanshu-404](https://github.com/Amritanshu-404)
+GitHub: [Amritanshu Kumar](https://github.com/Amritanshu-404)
 
-**Ritesh Singh Kushwaha**  
-GitHub: [@your-github-username](https://github.com/Ritesh000001)
+GitHub: [Ritesh Singh Kushwaha](https://github.com/Ritesh000001)
 
 </div>
 
@@ -264,5 +262,6 @@ Found a bug? Have a suggestion? We'd love to hear from you!
 Made with ❤️ by security enthusiasts for security enthusiasts
 
 </div>
+
 
 
