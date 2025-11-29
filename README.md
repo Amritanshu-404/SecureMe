@@ -237,9 +237,7 @@ SecureMe is designed for personal use and educational purposes. While we impleme
 
 ### Developed by:
 
-GitHub: [Amritanshu Kumar](https://github.com/Amritanshu-404)
-
-GitHub: [Ritesh Singh Kushwaha](https://github.com/Ritesh000001)
+[Amritanshu Kumar](https://github.com/Amritanshu-404) [Ritesh Singh Kushwaha](https://github.com/Ritesh000001)
 
 </div>
 
@@ -262,6 +260,7 @@ Found a bug? Have a suggestion? We'd love to hear from you!
 Made with ❤️ by security enthusiasts for security enthusiasts
 
 </div>
+
 
 
 
